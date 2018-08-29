@@ -2,13 +2,13 @@
     "name": "feizhan/demo",
     "description": "this is a composer demo",
     "type": "library",
-    "license": "mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "xinyun",
             "email": "995116474@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0",
     "require": {}
 }
